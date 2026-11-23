@@ -35,8 +35,8 @@ Use a secondary Google account if you can: GHunt makes automated requests with t
 
 ## Install
 
-- Firefox: _coming soon on addons.mozilla.org_
-- Chrome / Edge / Brave / Opera: _coming soon on the stores_
+- Firefox: submitted to addons.mozilla.org, pending review (link here once it is live). Meanwhile, install from source below.
+- Chrome / Edge / Brave / Opera: not on the stores yet; install from source below.
 - From source: download this repo, then
   - Chrome/Edge/Brave: `chrome://extensions` → enable **Developer mode** → **Load unpacked** → pick the folder.
   - Firefox: `about:debugging#/runtime/this-firefox` → **Load Temporary Add-on** → pick `manifest.json`.
