@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "ghunt-fixed Companion",
   "short_name": "ghunt-fixed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Log GHunt / ghunt-fixed in to Google in one click: fetches a fresh, single-use oauth_token and hands it to GHunt. Never caches it.",
   "homepage_url": "https://github.com/Iskandeur/ghunt-fixed-companion",
   "permissions": ["cookies", "storage", "tabs"],
